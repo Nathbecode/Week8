@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 230px ;
+}
+
+.container {
+    width: 230px ;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+p {
+    width: 190px;
+    margin-bottom: -20px;
+    margin-top: 0;
+}
+button {
+    align-self: self-end;
+}
+hr {
+    width: 230px;
+    transform: translateX();
+    border-bottom: 1px dashed rgb(245, 242, 242);
+    margin: 0;
+
+}
